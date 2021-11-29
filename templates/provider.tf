@@ -6,7 +6,7 @@
      }
    }
  }
- #moved to morpheusCloudprofile.tf all the variable declarations
+
  provider "aws" {
    access_key = var.morphues_access_key
    secret_key  = var.morphues_secret_key
