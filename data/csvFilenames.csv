@@ -1,4 +1,4 @@
-'Application Names','data/applicationNames.csv'
-'CSV Filenames','data/csvFilenames.csv'
-'EC2 Instance Types','data/ec2InstanceTypes.csv'
-'Image ID','data/imageId.csv'
+'Application Names','../data/applicationNames.csv'
+'CSV Filenames','../data/csvFilenames.csv'
+'EC2 Instance Types','../data/ec2InstanceTypes.csv'
+'Image ID','../data/imageId.csv'
